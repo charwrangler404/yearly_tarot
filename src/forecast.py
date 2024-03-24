@@ -7,7 +7,7 @@ cards = {0:"The Fool", 1:"The Magicican", 2:"The High Priestess", 3:"The Empress
          15:"The Devil", 16:"The Tower", 17:"The Star", 18:"The Moon", 19:"The Sun", 
          20:"Judgement", 21:"The World"}
 
-parser = argparse.ArgumentParser("forecast.py", help="Forecast for your yearly card")
+parser = argparse.ArgumentParser("forecast.py")
 parser.add_argument("-s", help="Start four digit year", required=True, type=int)
 parser.add_argument("-e", help="End four digit year", required=True, type=int)
 parser.add_argument("-d", help="Your Birth Day of Month", required=True, type=int)
