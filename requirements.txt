@@ -1,0 +1,2 @@
+pyside6=6.6.2
+argparse=1.4.0
