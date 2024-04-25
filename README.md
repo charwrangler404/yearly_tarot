@@ -37,7 +37,7 @@ are on a *nix-like, simply run the included install script.
 
 ## To-Do
 
-* [ ] Implement a QT Graphical Interface
+* [x] Implement a QT Graphical Interface
 * [ ] Implement a library of readings for each of the Major Arcana
 
 ## License
