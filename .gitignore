@@ -1,2 +1,5 @@
 **/__pycache__
 __pycache__
+.venv
+yearly_card_qt.*
+*.bin
